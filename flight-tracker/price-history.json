@@ -1,0 +1,31 @@
+[
+  {
+    "date": "2026-06-08",
+    "routes": {
+      "SAW_GZT": {
+        "best_price": 1789,
+        "airline": "AJet",
+        "source": "Enuygun"
+      },
+      "GZT_SAW": {
+        "best_price": 1402,
+        "airline": "AJet/Pegasus",
+        "source": "KAYAK"
+      }
+    },
+    "best_roundtrip_estimate": 3191,
+    "best_roundtrip_airline": "AJet",
+    "prices_found": {
+      "AJet_SAW_GZT": 1789,
+      "Pegasus_SAW_GZT": 1903,
+      "AJet_GZT_SAW": 1785,
+      "KAYAK_GZT_SAW_low": 1402,
+      "KAYAK_SAW_GZT_low": 1893,
+      "Pegasus_SAW_GZT_alt": 3341
+    },
+    "campaign": false,
+    "campaign_notes": "Pegasus BolBol international campaign (9 EUR+taxes) active but not domestic SAW-GZT specific",
+    "record_low": "early_data",
+    "notes": "First data entry. Repository initialized."
+  }
+]
