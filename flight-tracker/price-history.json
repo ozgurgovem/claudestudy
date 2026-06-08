@@ -1,31 +1,85 @@
 [
   {
     "date": "2026-06-08",
-    "routes": {
-      "SAW_GZT": {
-        "best_price": 1789,
+    "best_price_try": 3117,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
         "airline": "AJet",
-        "source": "Enuygun"
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-16",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3117,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili başlangıcı (Haz 13)"
       },
-      "GZT_SAW": {
-        "best_price": 1402,
-        "airline": "AJet/Pegasus",
-        "source": "KAYAK"
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-17",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3165,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 13-17)"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-15",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-18",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3191,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 15-18)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-10",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-13",
+        "ret_time": "19:00",
+        "duration_days": 3,
+        "price_try": 3574,
+        "is_holiday": true,
+        "holiday_note": "Donus Yaz tatili baslangiç gunune denk geliyor"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24)"
       }
+    ],
+    "campaign_detected": false,
+    "campaign_detail": "AJet yurt disi kampanyasi Nisan 2026'da aktifti; Haziran SAW-GZT domestic rotasinda aktif kampanya tespit edilmedi.",
+    "record_low": true,
+    "six_month_min_at_time": 3117,
+    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com"],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1715,
+      "SAW_GZT_ajet_jun10_try": 1789,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_jun9_try": 1312,
+      "GZT_SAW_kayak_low_try": 1402,
+      "GZT_SAW_ajet_try": 1785
     },
-    "best_roundtrip_estimate": 3191,
-    "best_roundtrip_airline": "AJet",
-    "prices_found": {
-      "AJet_SAW_GZT": 1789,
-      "Pegasus_SAW_GZT": 1903,
-      "AJet_GZT_SAW": 1785,
-      "KAYAK_GZT_SAW_low": 1402,
-      "KAYAK_SAW_GZT_low": 1893,
-      "Pegasus_SAW_GZT_alt": 3341
-    },
-    "campaign": false,
-    "campaign_notes": "Pegasus BolBol international campaign (9 EUR+taxes) active but not domestic SAW-GZT specific",
-    "record_low": "early_data",
-    "notes": "First data entry. Repository initialized."
+    "notes": "Temmuz yuksek sezon (SAW>GZT TL2.715 tek yon). En iyi pencere Haziran 13-18 arasi. Yaz tatili Haz 13 basliyor."
   }
 ]
