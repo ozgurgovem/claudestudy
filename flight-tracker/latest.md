@@ -1,7 +1,7 @@
 # SAW ↔ GZT Son Fiyat Özeti
 
-**Güncelleme:** 2026-06-09  
-**Durum:** 🟡 Stabil (Rekor eşleşiyor: ₺3.117) | Kampanya: YOK | ⚡ Yaz tatili 4 gün sonra başlıyor!
+**Güncelleme:** 2026-06-10
+**Durum:** 🟡 Stabil (Rekor seviyede sabit: ₺3.117) | Kampanya: YOK | ⚡ Yaz tatili 3 gün sonra başlıyor!
 
 ## En İyi 5 Gidiş-Dönüş (3–5 Gün)
 
@@ -15,5 +15,5 @@
 
 ## ✅ Öneri: ⚡ ACİL — ŞİMDİ AL
 
-**13 Haz (Cmt) gidişli AJet — ₺3.117 round-trip**  
-Yaz tatili 4 gün sonra başlıyor, Temmuz'da fiyatlar ~%58 artıyor. Erken sabah gidiş + geç akşam dönüş.
+**13 Haz (Cmt) gidişli AJet — ₺3.117 round-trip**
+Yaz tatili 3 gün sonra başlıyor, Temmuz'da fiyatlar ~%58 artıyor. Fiyat 3 gündür sabit; bekleme avantajı kalmadı.
