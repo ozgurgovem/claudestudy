@@ -162,5 +162,86 @@
       "GZT_SAW_ajet_jun9_try": 1312
     },
     "notes": "Fiyatlar dünle aynı seviyede. Haz 10 uçuşu yarın kalkacağından top5'ten çıkarıldı (son dakika). Haz 13-16 en iyi pencere — 4 gün kaldı. Temmuz'da %58 fiyat artışı bekleniyor."
+  },
+  {
+    "date": "2026-06-10",
+    "best_price_try": 3117,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-16",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3117,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili başlangıcı (Haz 13)"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-17",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3165,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 13-17)"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-15",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-18",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3191,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 15-18)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-16",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-19",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3280,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 16-19)"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24)"
+      }
+    ],
+    "campaign_detected": false,
+    "campaign_detail": "AJet 'Yaza Merhaba' kampanyası (21-22 Mayıs satış, 2-23 Haziran uçuş dönemi) sadece yurt dışı rotalarda (Balkanlar, Avrupa) geçerli; SAW-GZT iç hat rotasında aktif kampanya tespit edilmedi.",
+    "record_low": false,
+    "six_month_min_at_time": 3117,
+    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "Tatilsepeti.com", "AJet.com", "flypgs.com"],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1715,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_kayak_low_try": 1402,
+      "GZT_SAW_ajet_low_try": 1312
+    },
+    "notes": "Fiyatlar son 3 gündür sabit (₺3.117 rekor seviyede). Haz 13-16 penceresi hala en iyi seçenek — sadece 3 gün kaldı, yaz tatili başlangıcına yakınlık nedeniyle yakında fiyat artışı bekleniyor. AJet'in Mayıs sonu kampanyası iç hat SAW-GZT'yi etkilemiyor."
   }
 ]
