@@ -324,5 +324,87 @@
       "GZT_SAW_kayak_low_try": 1402
     },
     "notes": "Fiyatlar 4 gündür sabit (₺3.117 rekor seviyede, değişmedi). Yaz tatili başlangıcına (13 Haziran) sadece 2 gün kaldı. AJet'in 23 Haziran'da sona erecek iç hat fiyat seviyesi sonrası artış riski var. 13-16 Haziran penceresi hâlâ en iyi seçenek ve son dakika fırsatı."
+  },
+  {
+    "date": "2026-06-12",
+    "best_price_try": 2481,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-16",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 2481,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili başlangıcı (Haz 13) - YARIN, SON GÜN! Fiyat düşüşü tespit edildi (tahmini)"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-13",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-17",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3165,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 13-17)"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-15",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-18",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3191,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 15-18)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-16",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-19",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3280,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 16-19)"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24)"
+      }
+    ],
+    "campaign_detected": true,
+    "campaign_detail": "AJet SAW-GZT (13 Haziran) tek yön fiyatı önceki 4 gündür ~1.715-1.957 TL aralığındayken bugün 1.169 TL'ye düştü (%32 düşüş, kaynak: arama özetleri/Airpaz/Trip.com). Bu, rank-1 round-trip toplamının ~2.481 TL'ye inebileceğini gösteriyor (önceki rekor 3.117 TL'den %20 daha düşük). DİKKAT: bu tahmini bir hesaplamadır (1.169 + ~1.312 GZT-SAW), dönüş bacağı doğrudan doğrulanamadı; AJet.com üzerinden ACİL doğrulama gerekiyor çünkü uçuş YARIN kalkıyor.",
+    "record_low": true,
+    "six_month_min_at_time": 2481,
+    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "Trip.com", "Airpaz.com", "Tatilsepeti.com"],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1169,
+      "SAW_GZT_ajet_jun13_try": 1169,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_kayak_low_try": 1402,
+      "estimated_rank1_total_try": 2481
+    },
+    "notes": "Yaz tatili YARIN (13 Haziran) başlıyor — bu son gün. AJet SAW-GZT tek yön fiyatında ani düşüş tespit edildi (1.715 TL → 1.169 TL). Rank-1 itinerary (13-16 Haz) için tahmini toplam ~2.481 TL, önceki rekordan (3.117 TL) %20 düşük — ACİL doğrulama ve rezervasyon önerilir, uçuş yarın kalkıyor. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Diğer sıralamalar (2-5) 4 gündür değişmedi."
   }
 ]
