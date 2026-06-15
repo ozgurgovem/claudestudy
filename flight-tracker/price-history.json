@@ -569,5 +569,86 @@
       "THY_roundtrip_jul14_15_try": 7056
     },
     "notes": "14 Haziran (bugün) gidişli iki seçenek (dünkü sıra-1: 14-17, 3.165 TL ve sıra-3: 14-18, 3.239 TL) uçuş tarihi bugüne geldiği için top5'ten çıkarıldı. Dünkü sıra-2 (15-18, 3.191 TL) ve sıra-4 (16-19, 3.280 TL) seviyelerinde değişiklik yok — yeni rank-1/2 olarak korundu. 15-19 (4g) ve 17-20 (3g) için tahmini fiyatlar tarihsel artış paternine göre hesaplandı; AJet.com üzerinden doğrulama önerilir. Pegasus 20-24 Haziran fiyatı (3.585 TL) 6 gündür sabit. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Yaz tatili dönemi (13 Haz - 14 Eyl) sürüyor, tüm seçenekler 🌟 işaretli. 6 aylık minimum (2.481 TL, 12 Haziran) hâlâ doğrulanamadı/teyit edilemedi - referans olarak korunuyor."
+  },
+  {
+    "date": "2026-06-15",
+    "best_price_try": 3280,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-06-16",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-19",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3280,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 16-19) — dünkü sıra-2 seviyesinde sabit, bugün rank-1"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-17",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-20",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3320,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 17-20) — dünkü sıra-4 seviyesinde sabit"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-16",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-20",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3344,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 16-20) — tahmini (3g fiyatına +64 TL 4g farkı uygulanarak hesaplandı)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-18",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-21",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3360,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 18-21) — tahmini, artan trend devam ediyor"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24) — 7 gündür değişmedi"
+      }
+    ],
+    "campaign_detected": false,
+    "campaign_detail": "Bugünkü aramalar dünkü ile aynı genel fiyat seviyelerini doğruluyor (Haziran SAW-GZT tek yön ~1.715-1.893 TL, GZT-SAW ~1.312-1.402 TL, Temmuz ~2.715 TL, Ağustos ~1.865 TL). Yeni bir kampanya tespit edilmedi.",
+    "record_low": false,
+    "six_month_min_at_time": 2481,
+    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com", "Expedia.com", "turkishairlines.com"],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1715,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_kayak_low_try": 1402,
+      "THY_roundtrip_jun13_16_try": 5407
+    },
+    "notes": "15 Haziran (bugün) gidişli seçenek (dünkü sıra-1: 15-18, 3.191 TL) uçuş tarihi bugüne geldiği için top5'ten çıkarıldı. Dünkü sıra-2 (16-19, 3.280 TL) ve sıra-4 (17-20, 3.320 TL) seviyelerinde değişiklik yok — yeni rank-1/2 olarak korundu. 16-20 (4g) ve 18-21 (3g) için tahmini fiyatlar tarihsel artış paternine göre hesaplandı; AJet.com üzerinden doğrulama önerilir. Pegasus 20-24 Haziran fiyatı (3.585 TL) 7 gündür sabit. THY round-trip (13-16 Haz, 5.407 TL) AJet'in çok üzerinde. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Yaz tatili dönemi (13 Haz - 14 Eyl) sürüyor, tüm seçenekler 🌟 işaretli. 6 aylık minimum (2.481 TL, 12 Haziran) hâlâ doğrulanamadı/teyit edilemedi - referans olarak korunuyor."
   }
 ]
