@@ -571,6 +571,88 @@
     "notes": "14 Haziran (bugün) gidişli iki seçenek (dünkü sıra-1: 14-17, 3.165 TL ve sıra-3: 14-18, 3.239 TL) uçuş tarihi bugüne geldiği için top5'ten çıkarıldı. Dünkü sıra-2 (15-18, 3.191 TL) ve sıra-4 (16-19, 3.280 TL) seviyelerinde değişiklik yok — yeni rank-1/2 olarak korundu. 15-19 (4g) ve 17-20 (3g) için tahmini fiyatlar tarihsel artış paternine göre hesaplandı; AJet.com üzerinden doğrulama önerilir. Pegasus 20-24 Haziran fiyatı (3.585 TL) 6 gündür sabit. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Yaz tatili dönemi (13 Haz - 14 Eyl) sürüyor, tüm seçenekler 🌟 işaretli. 6 aylık minimum (2.481 TL, 12 Haziran) hâlâ doğrulanamadı/teyit edilemedi - referans olarak korunuyor."
   },
   {
+    "date": "2026-06-16",
+    "best_price_try": 3320,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-06-17",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-20",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3320,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 17-20) — dünkü sıra-2 seviyesinde sabit"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-18",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-21",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3360,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 18-21) — dünkü sıra-4 seviyesinde sabit"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-17",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-21",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3384,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 17-21) — tahmini (3g fiyatına +64 TL 4g farkı uygulanarak hesaplandı)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-19",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-22",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3400,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 19-22) — tahmini, günlük artış trendi devam ediyor"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24) — 8 gündür değişmedi"
+      }
+    ],
+    "campaign_detected": false,
+    "campaign_detail": "Aktif kampanya tespit edilmedi. Pegasus ve AJet için Haziran 2026 SAW-GZT özel kampanyası yok. AJet'in iç hat %30 kampanya satış penceresi (21-22 Mayıs) kapandı.",
+    "record_low": false,
+    "six_month_min_at_time": 3117,
+    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com", "Airpaz.com", "Trip.com", "turkishairlines.com", "Tatilsepeti.com"],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1715,
+      "SAW_GZT_ajet_lastminute_try": 1169,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_kayak_low_try": 1402,
+      "trip_com_roundtrip_low_try": 3487
+    },
+    "notes": "16 Haziran (bugün) gidişli seçenekler (dünkü sıra-1: 16-19, 3.280 TL ve sıra-3: 16-20, 3.344 TL) bugüne geldiği için top5'ten çıkarıldı. Dünkü sıra-2 (17-20, 3.320 TL) ve sıra-4 (18-21, 3.360 TL) seviyelerinde değişiklik yok — yeni rank-1/2 olarak korundu. 17-21 (4g) ve 19-22 (3g) için tahmini fiyatlar tarihsel +40-64 TL/gün artış paternine göre hesaplandı. Pegasus 20-24 Haziran fiyatı (3.585 TL) 8 gündür sabit. Dikkat: Airpaz kaynağında AJet SAW→GZT tek yön fiyatı hâlâ ₺1.169'da görünüyor (17 saat önce güncellendi) — bu son dakika/belirli tarih fiyatı olabilir, yuvarlak tarih doğrulaması yapılamamıştır. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Ağustos'ta (1.865 TL tek yön) fiyat düşüşü var — Ağustos ortası round-trip (~3.267 TL tahmini) mevcut Haziran geç pencere seçeneklerinden rekabetçi olabilir. Yaz tatili dönemi (13 Haz - 14 Eyl) sürüyor, tüm seçenekler 🌟 işaretli. 6 aylık minimum: ₺3.117 (onaylı, 8 Haz); ₺2.481 teyit edilemedi."
+  },
+  {
     "date": "2026-06-15",
     "best_price_try": 3280,
     "best_airline": "AJet",
