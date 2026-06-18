@@ -69,7 +69,13 @@
     "campaign_detail": "AJet yurt disi kampanyasi Nisan 2026'da aktifti; Haziran SAW-GZT domestic rotasinda aktif kampanya tespit edilmedi.",
     "record_low": true,
     "six_month_min_at_time": 3117,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_ajet_jun10_try": 1789,
@@ -152,7 +158,13 @@
     "campaign_detail": "Aktif kampanya tespit edilmedi. AJet Nisan 2026 yurt dışı kampanyası sona erdi.",
     "record_low": false,
     "six_month_min_at_time": 3117,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_kayak_low_try": 1893,
@@ -233,7 +245,14 @@
     "campaign_detail": "AJet 'Yaza Merhaba' kampanyası (21-22 Mayıs satış, 2-23 Haziran uçuş dönemi) sadece yurt dışı rotalarda (Balkanlar, Avrupa) geçerli; SAW-GZT iç hat rotasında aktif kampanya tespit edilmedi.",
     "record_low": false,
     "six_month_min_at_time": 3117,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "Tatilsepeti.com", "AJet.com", "flypgs.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "Tatilsepeti.com",
+      "AJet.com",
+      "flypgs.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_kayak_low_try": 1893,
@@ -314,7 +333,15 @@
     "campaign_detail": "Yeni tespit: AJet 'Türkiye çıkışlı uçuşlar' için 2-23 Haziran 2026 döneminde %30 indirimli kampanya yürütüyor (60 USD'den başlayan fiyatlar). Kapsamın yurt dışı (Balkanlar/Avrupa) rotalarıyla sınırlı olduğu öncesinde tespit edilmişti; SAW-GZT iç hat fiyatlarında 4 gündür değişiklik gözlenmediğinden bu kampanyanın domestic rotayı kapsamadığı değerlendirmesi korundu.",
     "record_low": false,
     "six_month_min_at_time": 3117,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "Tatilsepeti.com", "AJet.com", "flypgs.com", "Expedia.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "Tatilsepeti.com",
+      "AJet.com",
+      "flypgs.com",
+      "Expedia.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_ajet_enuygun_try": 1957,
@@ -395,7 +422,15 @@
     "campaign_detail": "AJet SAW-GZT (13 Haziran) tek yön fiyatı önceki 4 gündür ~1.715-1.957 TL aralığındayken bugün 1.169 TL'ye düştü (%32 düşüş, kaynak: arama özetleri/Airpaz/Trip.com). Bu, rank-1 round-trip toplamının ~2.481 TL'ye inebileceğini gösteriyor (önceki rekor 3.117 TL'den %20 daha düşük). DİKKAT: bu tahmini bir hesaplamadır (1.169 + ~1.312 GZT-SAW), dönüş bacağı doğrudan doğrulanamadı; AJet.com üzerinden ACİL doğrulama gerekiyor çünkü uçuş YARIN kalkıyor.",
     "record_low": true,
     "six_month_min_at_time": 2481,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "Trip.com", "Airpaz.com", "Tatilsepeti.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "Trip.com",
+      "Airpaz.com",
+      "Tatilsepeti.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1169,
       "SAW_GZT_ajet_jun13_try": 1169,
@@ -477,7 +512,17 @@
     "campaign_detail": "AJet'in %30 indirimli iç hat kampanyası (satış: 21-22 Mayıs, uçuş dönemi: 2-23 Haziran 2026) için satış penceresi kapandı — bugün itibarıyla yeni rezervasyonlarda bu indirim uygulanamıyor. Pegasus/THY için Haziran'a özel SAW-GZT kampanyası tespit edilmedi.",
     "record_low": false,
     "six_month_min_at_time": 2481,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "Tatilsepeti.com", "AJet.com", "flypgs.com", "Trip.com", "Airpaz.com", "Expedia.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "Tatilsepeti.com",
+      "AJet.com",
+      "flypgs.com",
+      "Trip.com",
+      "Airpaz.com",
+      "Expedia.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_kayak_low_try": 1893,
@@ -558,7 +603,15 @@
     "campaign_detail": "Bugünkü aramalar dünkü ile aynı genel fiyat seviyelerini doğruluyor (Haziran SAW-GZT tek yön ~1.715-1.893 TL, GZT-SAW ~1.312-1.402 TL, Temmuz ~2.715 TL, Ağustos ~1.865 TL). Yeni bir kampanya tespit edilmedi. AJet'in %30 iç hat kampanyasının satış penceresi hâlâ kapalı.",
     "record_low": false,
     "six_month_min_at_time": 2481,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com", "Expedia.com", "turkishairlines.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com",
+      "Expedia.com",
+      "turkishairlines.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_kayak_low_try": 1893,
@@ -640,7 +693,17 @@
     "campaign_detail": "Aktif kampanya tespit edilmedi. Pegasus ve AJet için Haziran 2026 SAW-GZT özel kampanyası yok. AJet'in iç hat %30 kampanya satış penceresi (21-22 Mayıs) kapandı.",
     "record_low": false,
     "six_month_min_at_time": 3117,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com", "Airpaz.com", "Trip.com", "turkishairlines.com", "Tatilsepeti.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com",
+      "Airpaz.com",
+      "Trip.com",
+      "turkishairlines.com",
+      "Tatilsepeti.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_ajet_lastminute_try": 1169,
@@ -722,7 +785,15 @@
     "campaign_detail": "Bugünkü aramalar dünkü ile aynı genel fiyat seviyelerini doğruluyor (Haziran SAW-GZT tek yön ~1.715-1.893 TL, GZT-SAW ~1.312-1.402 TL, Temmuz ~2.715 TL, Ağustos ~1.865 TL). Yeni bir kampanya tespit edilmedi.",
     "record_low": false,
     "six_month_min_at_time": 2481,
-    "data_sources": ["KAYAK.com.tr", "Enuygun.com", "Skyscanner.com.tr", "AJet.com", "flypgs.com", "Expedia.com", "turkishairlines.com"],
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com",
+      "Expedia.com",
+      "turkishairlines.com"
+    ],
     "price_breakdown": {
       "SAW_GZT_june_low_try": 1715,
       "SAW_GZT_kayak_low_try": 1893,
@@ -732,5 +803,101 @@
       "THY_roundtrip_jun13_16_try": 5407
     },
     "notes": "15 Haziran (bugün) gidişli seçenek (dünkü sıra-1: 15-18, 3.191 TL) uçuş tarihi bugüne geldiği için top5'ten çıkarıldı. Dünkü sıra-2 (16-19, 3.280 TL) ve sıra-4 (17-20, 3.320 TL) seviyelerinde değişiklik yok — yeni rank-1/2 olarak korundu. 16-20 (4g) ve 18-21 (3g) için tahmini fiyatlar tarihsel artış paternine göre hesaplandı; AJet.com üzerinden doğrulama önerilir. Pegasus 20-24 Haziran fiyatı (3.585 TL) 7 gündür sabit. THY round-trip (13-16 Haz, 5.407 TL) AJet'in çok üzerinde. Temmuz hâlâ %58 daha pahalı (2.715 TL tek yön). Yaz tatili dönemi (13 Haz - 14 Eyl) sürüyor, tüm seçenekler 🌟 işaretli. 6 aylık minimum (2.481 TL, 12 Haziran) hâlâ doğrulanamadı/teyit edilemedi - referans olarak korunuyor."
+  },
+  {
+    "date": "2026-06-18",
+    "best_price_try": 3400,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-06-19",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-22",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3400,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 19-22) — yarin gidis, sabah erken/aksam gec"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-06-20",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-23",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3440,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-23) — sabah erken/aksam gec"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-06-19",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-23",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3464,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 19-23) — 4 gun, sabah erken/aksam gec"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-06-21",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3480,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 21-24)"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-06-20",
+        "dep_time": "08:00",
+        "ret_date": "2026-06-24",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3585,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 20-24) — 10+ gundur degismedi, dogrulanmis fiyat"
+      }
+    ],
+    "campaign_detected": true,
+    "campaign_detail": "AJet AJET30 indirim kodu kupon sitelerinde Haziran 2026 icin hala listeleniyor — ic hat biletlerde %30 indirim iddiasi. SAW-GZT rotasinda dogrulanmadi, ajet.com uzerinden denenmesi onerilir. Calismasi halinde rank-1 fiyati ~2.380 TL olabilir. AJet ic hat kampanya ucus donemi (2-23 Haziran) devam ediyor ancak satis penceresi (21-22 Mayis) kapandi. Pegasus 2 gunluk uluslararasi indirim (17-18 Haziran) bugun sona eriyor, SAW-GZT ic hat icin gecerli degil.",
+    "record_low": false,
+    "six_month_min_at_time": 3117,
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com",
+      "Trip.com",
+      "Tatilsepeti.com",
+      "turkishairlines.com",
+      "kuponburada.com"
+    ],
+    "price_breakdown": {
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_enuygun_low_try": 1957,
+      "SAW_GZT_jun19_ajet_try": 2539,
+      "SAW_GZT_july_try": 2715,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_kayak_low_try": 1402,
+      "GZT_SAW_pegasus_low_try": 1686,
+      "GZT_SAW_jun21_pegasus_try": 2169,
+      "THY_roundtrip_june_try": 5706,
+      "THY_roundtrip_july_try": 7056,
+      "trip_com_roundtrip_low_try": 3487
+    },
+    "notes": "Haz 17-20 (dunku rank-1, 3.320 TL) ve Haz 18-21 (dunku rank-2, 3.360 TL) ucus tarihleri gectiginden top5 ten cikarildi. Haz 19-22 (onceki rank-4 tahmini, 3.400 TL) yeni rank-1 oldu. Pegasus 20-24 Haziran fiyati (3.585 TL) 10+ gundur sabit. AJet AJET30 kupon kodu tespit edildi — dogrulanirsa onemli tasarruf imkani (~%30). Temmuz hala %43 daha pahali (2.715 TL tek yon). Agustos ortasi round-trip (~3.267 TL tahmini) ileri tarihli alternatif olarak izleniyor. Gunluk ~40 TL artis trendi suruyor."
   }
 ]
