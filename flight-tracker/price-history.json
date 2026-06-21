@@ -899,5 +899,104 @@
       "trip_com_roundtrip_low_try": 3487
     },
     "notes": "Haz 17-20 (dunku rank-1, 3.320 TL) ve Haz 18-21 (dunku rank-2, 3.360 TL) ucus tarihleri gectiginden top5 ten cikarildi. Haz 19-22 (onceki rank-4 tahmini, 3.400 TL) yeni rank-1 oldu. Pegasus 20-24 Haziran fiyati (3.585 TL) 10+ gundur sabit. AJet AJET30 kupon kodu tespit edildi — dogrulanirsa onemli tasarruf imkani (~%30). Temmuz hala %43 daha pahali (2.715 TL tek yon). Agustos ortasi round-trip (~3.267 TL tahmini) ileri tarihli alternatif olarak izleniyor. Gunluk ~40 TL artis trendi suruyor."
+  },
+  {
+    "date": "2026-06-21",
+    "best_price_try": 3280,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-08-05",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-08",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3280,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Ağu 5-8) — Ağustos en ucuz ay, erken sabah/akşam geç"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-08-28",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-31",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3430,
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayramı (30 Ağu) + Yaz tatili — Cuma-Pazartesi uzun hafta sonu"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-08-27",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-31",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3494,
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayramı (30 Ağu) + Yaz tatili — Perşembe-Pazartesi 4 günlük tatil"
+      },
+      {
+        "rank": 4,
+        "airline": "Pegasus",
+        "dep_date": "2026-08-28",
+        "dep_time": "08:00",
+        "ret_date": "2026-09-01",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3500,
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayramı (30 Ağu) + Yaz tatili — Cuma-Salı 4 günlük tatil"
+      },
+      {
+        "rank": 5,
+        "airline": "AJet",
+        "dep_date": "2026-06-22",
+        "dep_time": "07:30",
+        "ret_date": "2026-06-25",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3520,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Haz 22-25) — en yakın müsait tarih, yarın gidiş"
+      }
+    ],
+    "campaign_detected": true,
+    "campaign_detail": "Pegasus mobil uygulama indirimi: APP5 kodu ile %5 indirim aktif (flypgs.com uygulaması üzerinden). Uygulanırsa rank-4 fiyatı ~3.325 TL'ye düşebilir. AJet AJET30 kodu kupon sitelerinde hâlâ listeleniyor ancak iç hat SAW-GZT'de doğrulanamadı. AJet 18-19 Haziran'da satışa sunulan yeni kampanya (59 USD'den başlayan) yalnızca yurt dışı ve 14 Eyl-21 Kas uçuş dönemi için geçerli, SAW-GZT'yi kapsamıyor.",
+    "record_low": false,
+    "six_month_min_at_time": 3117,
+    "data_sources": [
+      "KAYAK.com.tr",
+      "Enuygun.com",
+      "Skyscanner.com.tr",
+      "AJet.com",
+      "flypgs.com",
+      "Expedia.com",
+      "Trip.com",
+      "Tatilsepeti.com",
+      "turkishairlines.com",
+      "kuponburada.com",
+      "Airpaz.com"
+    ],
+    "price_breakdown": {
+      "SAW_GZT_june_low_try": 1950,
+      "SAW_GZT_kayak_low_try": 1893,
+      "SAW_GZT_july_try": 2846,
+      "SAW_GZT_august_try": 1865,
+      "GZT_SAW_june_enuygun_try": 2214,
+      "GZT_SAW_kayak_low_try": 1402,
+      "GZT_SAW_july_pegasus_try": 2201,
+      "THY_roundtrip_june_try": 5706,
+      "THY_roundtrip_july_try": 7056,
+      "trip_com_roundtrip_low_try": 3487,
+      "kayak_roundtrip_max_try": 5294,
+      "sunexpress_roundtrip_jul_usd": 100
+    },
+    "notes": "Strateji değişikliği: Haziran son dakika fiyatları artmaya devam ederken (günlük ~40 TL artış), Ağustos fiyatları belirgin şekilde düşük (tek yön 1.865 TL vs Haziran 1.950+ TL, Temmuz 2.846+ TL). Ağustos erken tarihleri şimdi en ucuz seçenek (~3.280 TL round-trip). Zafer Bayramı (30 Ağu) penceresi Cuma-Pazartesi uzun hafta sonu olarak ideal ve fiyat farkı sınırlı (~150 TL premium). Temmuz hâlâ en pahalı ay (%54 daha pahalı). Pegasus APP5 mobil indirim kodu aktif (%5). Pegasus Haz 20-24 fiyatı (3.585 TL) geçen hafta sabit kalmıştı — Haz 20 uçuşu dün kalktı. Haziran sonu seçenekleri artık sadece son dakika olarak değerlendiriliyor."
   }
 ]
