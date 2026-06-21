@@ -1,34 +1,35 @@
 # SAW ↔ GZT Son Fiyat Özeti
 
-**Güncelleme:** 2026-06-18  
-**Durum:** 🟡 Normal/Yükselen | Kampanya: AJET30 kodu denenmeli | 🌟 Yaz tatili sürüyor (Haz 13 – Eyl 14)
+**Güncelleme:** 2026-06-21
+**Durum:** 🟢 Ağustos fırsatı | Kampanya: Pegasus APP5 (%5), AJET30 (doğrulanmadı) | 🌟 Yaz tatili sürüyor (Haz 13 – Eyl 14)
 
 ## En İyi 5 Gidiş-Dönüş (3–5 Gün)
 
 | Sıra | Havayolu | Gidiş | Dönüş | Süre | Fiyat | Tatil? |
 |------|----------|-------|-------|------|-------|--------|
-| 1 | AJet | 19 Haz 07:30 | 22 Haz 19:30 | 3g | **~₺3.400*** | ⏰🌟 Yaz |
-| 2 | AJet | 20 Haz 07:30 | 23 Haz 19:30 | 3g | ~₺3.440* | ⏰🌟 Yaz |
-| 3 | AJet | 19 Haz 07:30 | 23 Haz 19:30 | 4g | ~₺3.464* | ⏰🌟 Yaz |
-| 4 | AJet | 21 Haz 07:30 | 24 Haz 19:30 | 3g | ~₺3.480* | 🌟 Yaz |
-| 5 | Pegasus | 20 Haz 08:00 | 24 Haz 19:00 | 4g | ₺3.585 | ⏰🌟 Yaz |
+| 1 | AJet | 05 Ağu 07:30 | 08 Ağu 19:30 | 3g | **~₺3.280*** | ⏰🌟 Yaz |
+| 2 | AJet | 28 Ağu 07:30 | 31 Ağu 19:30 | 3g | ~₺3.430* | ⏰🌟 Zafer Bayramı |
+| 3 | AJet | 27 Ağu 07:30 | 31 Ağu 19:30 | 4g | ~₺3.494* | ⏰🌟 Zafer Bayramı |
+| 4 | Pegasus | 28 Ağu 08:00 | 01 Eyl 19:00 | 4g | ~₺3.500* | ⏰🌟 Zafer Bayramı |
+| 5 | AJet | 22 Haz 07:30 | 25 Haz 19:30 | 3g | ~₺3.520* | ⏰🌟 Yaz (yarın!) |
 
-\*Tahmini fiyat — AJet.com üzerinden doğrulama önerilir. "AJET30" kodu ile %30 indirim mümkün olabilir.
+\*Tahmini fiyat — havayolu sitesi üzerinden doğrulama önerilir. Pegasus APP5 kodu ile ek %5 indirim mümkün.
 
 ## Bağlam
 
 - 6-ay minimum (onaylı): **₺3.117** — 8 Haziran 2026
-- Bugünkü rekora fark: **+₺283** (%9 üstünde)
-- Temmuz tek yön: ~₺2.715 (kaçının)
-- Ağustos round-trip tahmini: ~₺3.267 (doğrulama gerekiyor)
+- Bugünkü en iyi fiyata fark: **+₺163** (%5 üstünde)
+- Ağustos tek yön: ~₺1.865 (en ucuz ay ✅)
+- Temmuz tek yön: ~₺2.846 (en pahalı ay ❌)
 
 ## Öneri
 
-**HAZİRAN PENCERESİ → ŞİMDİ AL** (AJet 19-22 Haz, ~₺3.400 — yarın gidiş!)
-- Önce AJet.com'da "AJET30" kodunu deneyin — çalışırsa ~₺2.380 olabilir
-- Haz 23 sonrası kampanya uçuş dönemi bitiyor
+**AĞUSTOS HEDEFLE → BEKLE & İZLE**
+- Ağustos erken tarihleri şu an en ucuz seçenek (~₺3.280 round-trip)
+- Zafer Bayramı penceresi (28-31 Ağu) resmi tatil avantajı + sadece ~₺150 fazla
+- Pegasus APP5 kodu ile %5 ek indirim denenebilir (~₺3.325'e düşebilir)
 
-**AĞUSTOS → İZLE** (~₺3.267 tahmini, ileri tarihli alternatif)  
-**TEMMUZ → KAÇIN** (%43 daha pahalı)
+**HAZİRAN → SON DAKİKA** (yarın gidiş ~₺3.520, Ağustos'tan ~₺240 daha pahalı)
+**TEMMUZ → KAÇIN** (%54 daha pahalı, tek yön ~₺2.846)
 
-Fiyatlar son 10 günde ₺3.117 → ₺3.400 yükseldi (+%9). Günlük ~₺40 artış trendi sürüyor. En ucuz Haziran penceresi kaçırıldı (₺3.117, 8-11 Haz). Sıradaki fırsat penceresi Ağustos ortası olabilir.
+Strateji değişikliği: Haziran penceresi kapanırken Ağustos belirgin şekilde daha ucuz hale geldi. Zafer Bayramı (30 Ağu) uzun hafta sonu ideal tatil planı sunuyor.
