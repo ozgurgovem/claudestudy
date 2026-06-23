@@ -998,5 +998,76 @@
       "sunexpress_roundtrip_jul_usd": 100
     },
     "notes": "Strateji değişikliği: Haziran son dakika fiyatları artmaya devam ederken (günlük ~40 TL artış), Ağustos fiyatları belirgin şekilde düşük (tek yön 1.865 TL vs Haziran 1.950+ TL, Temmuz 2.846+ TL). Ağustos erken tarihleri şimdi en ucuz seçenek (~3.280 TL round-trip). Zafer Bayramı (30 Ağu) penceresi Cuma-Pazartesi uzun hafta sonu olarak ideal ve fiyat farkı sınırlı (~150 TL premium). Temmuz hâlâ en pahalı ay (%54 daha pahalı). Pegasus APP5 mobil indirim kodu aktif (%5). Pegasus Haz 20-24 fiyatı (3.585 TL) geçen hafta sabit kalmıştı — Haz 20 uçuşu dün kalktı. Haziran sonu seçenekleri artık sadece son dakika olarak değerlendiriliyor."
+  },
+  {
+    "date": "2026-06-23",
+    "best_price_try": 3290,
+    "best_airline": "AJet",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-08-05",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-08",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3290,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Ağu 5-8)"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-08-28",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-31",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3420,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili + Zafer Bayramı köprü (30 Ağu)"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-08-27",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-31",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "price_try": 3480,
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili + Zafer Bayramı (30 Ağu)"
+      },
+      {
+        "rank": 4,
+        "airline": "Pegasus",
+        "dep_date": "2026-08-28",
+        "dep_time": "08:00",
+        "ret_date": "2026-09-01",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "price_try": 3500,
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayramı (30 Ağu) + Yaz tatili"
+      },
+      {
+        "rank": 5,
+        "airline": "AJet",
+        "dep_date": "2026-07-15",
+        "dep_time": "07:30",
+        "ret_date": "2026-07-18",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "price_try": 3550,
+        "is_holiday": true,
+        "holiday_note": "Demokrasi ve Millî Birlik Günü (15 Tem) + Yaz tatili"
+      }
+    ],
+    "campaign_detected": false,
+    "campaign_detail": "Pegasus BolBol kampanyası aktif (yurt dışı 9 EUR başlangıç), yurt içi hatta etkisi yok.",
+    "record_low": false,
+    "six_month_min_at_time": 2481
   }
 ]
