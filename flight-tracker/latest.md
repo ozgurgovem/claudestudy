@@ -1,19 +1,25 @@
-# SAW-GZT Son Durum — 2026-06-29
+# SAW-GZT Ucus Takip — Son Durum
 
-**En iyi fiyat**: ₺3,267 (AJet, 05-08 Agu, 3 gun) | Guvenilirlik: Yaklasik
+**Tarih**: 2026-06-29 | **En Ucuz RT**: ~₺3,290 (AJet, 5-7 Agu) | **Trend**: ↔️ Stabil
 
-| Bacak | Fiyat |
-|-------|-------|
-| Gidis (SAW→GZT) | ₺1,865 |
-| Donus (GZT→SAW) | ₺1,402 |
-| **Toplam** | **₺3,267** |
+## Top 3 Secenek
 
-**Trend**: ↔ Stabil — Agustos erken tarih fiyatlari son 1 haftadir sabit (₺3,267-₺3,290).
+| # | Tarihler | Havayolu | Toplam (₺) | Tatil |
+|---|----------|----------|------------|-------|
+| 1 | 29 Agu - 01 Eyl (4g) | AJet | ~₺3,500 | 🇹🇷 Zafer Bayrami |
+| 2 | 05-07 Agu (3g) | AJet | ~₺3,290 | ☀️ EN UCUZ |
+| 3 | 09-11 Eyl (3g) | AJet | ~₺3,300 | ☀️ Yaz sonu |
 
-**Duzeltme**: Temmuz donus fiyatlari (GZT→SAW) ₺2,218+ (ENUYGUN) — onceki ₺1,402 sadece Agustos icin gecerli. Tem 15-18 round-trip gercek toplam: ₺4,933.
+## Ozet
 
-**Kampanya**: SAW-GZT ic hat icin aktif kampanya yok. Pegasus APP5 (%5) ve AJet AJET30 (%30) kodlari denenmeli.
+- Agustos fiyatlari 2+ haftadir sabit (~₺3,267-3,290)
+- Temmuz ₺4,700+ — kacinilmali
+- Zafer Bayrami (29 Agu-1 Eyl) sadece +₺210 farkla 4g tatil firsati
+- SAW-GZT ic hat kampanya yok — Pegasus APP5 (%5) ve AJet AJET30 (%30) dogrulanmadi
+- **₺3,300 altinda gorurseniz alin**
 
-**Oneri**: Agustos 5-8 penceresi en uygun. ₺3,300 altinda gorulurse alinmasi onerilir. Temmuz cok pahali (₺4,933).
+## Veri Kaynagi
 
-Son guncelleme: 2026-06-29 | Detay: flight-tracker/reports/2026-06-29.md
+Web arama agregasyonu (SerpAPI egress engeli). KAYAK, Google Flights, Trip.com, Enuygun verileri.
+
+*Detayli rapor: flight-tracker/reports/2026-06-29.md*
