@@ -1,33 +1,17 @@
-# SAW ↔ GZT Güncel Durum — 2026-06-23
+# SAW-GZT Son Durum — 2026-06-29
 
-**Güncelleme:** 2026-06-23
-**Durum:** 🟡 Fiyatlar stabil | Kampanya: Pegasus BolBol yurt dışı (yurt içi etkisiz) | 🌟 Yaz tatili sürüyor (Haz 13 – Eyl 14)
+**En iyi fiyat**: ₺3,267 (AJet, 05-08 Agu, 3 gun) | Guvenilirlik: Yaklasik
 
-## En İyi 5 Gidiş-Dönüş (3–5 Gün)
+| Bacak | Fiyat |
+|-------|-------|
+| Gidis (SAW→GZT) | ₺1,865 |
+| Donus (GZT→SAW) | ₺1,402 |
+| **Toplam** | **₺3,267** |
 
-| Sıra | Havayolu | Gidiş | Dönüş | Süre | Fiyat | Tatil? |
-|------|----------|-------|-------|------|-------|--------|
-| 1 | AJet | 05 Ağu 07:30 | 08 Ağu 19:30 | 3g | **~₺3.290** | ⏰🌟 Yaz tatili |
-| 2 | AJet | 28 Ağu 07:30 | 31 Ağu 19:30 | 3g | ~₺3.420 | ⏰🌟 Zafer Bayramı köprü |
-| 3 | AJet | 27 Ağu 07:30 | 31 Ağu 19:30 | 4g | ~₺3.480 | ⏰🌟 Zafer Bayramı |
-| 4 | Pegasus | 28 Ağu 08:00 | 01 Eyl 19:00 | 4g | ~₺3.500 | ⏰🌟 Zafer Bayramı |
-| 5 | AJet | 15 Tem 07:30 | 18 Tem 19:30 | 3g | ~₺3.550 | ⏰🌟 Demokrasi Günü |
+**Trend**: Agustos erken tarih fiyatlari son 1 haftadir sabit. Temmuz %46 daha pahali.
 
-*Tahmini fiyat — havayolu sitesi üzerinden doğrulama önerilir.
+**Kampanya**: SAW-GZT ic hat icin aktif kampanya yok. Pegasus APP5 (%5) ve AJet AJET30 (%30) kodlari denenmeli.
 
-## Bağlam
+**Oneri**: Agustos 5-8 penceresi en uygun. ₺3,300 altinda gorulurse alinmasi onerilir.
 
-- 6-ay minimum (onaylı): **₺2.481** — 12 Haziran 2026
-- Bugünkü en iyi fiyata fark: **+₺809** (%33 üstünde)
-- Ağustos tek yön: ~₺1.865 (en ucuz ay ✅)
-- Temmuz tek yön: ~₺2.715 (en pahalı ay ❌)
-
-## Öneri
-
-**AĞUSTOS HEDEFLE → BEKLE & İZLE**
-- Ağustos erken tarihleri şu an en ucuz seçenek (~₺3.290 round-trip)
-- Zafer Bayramı penceresi (27-31 Ağu) resmi tatil avantajı + sadece ~₺130-190 fazla
-- Temmuz 15 Demokrasi Günü seçeneği tatil avantajı sunar ama ~₺260 daha pahalı
-- Fiyatlar 6 ay minimumunun belirgin üzerinde — indirim kampanyası beklenebilir
-
-**TEMMUZ → DİKKATLİ OL** (yüksek talep dönemi, tek yön ~₺2.715)
+Son guncelleme: 2026-06-29 | Detay: flight-tracker/reports/2026-06-29.md
