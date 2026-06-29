@@ -1156,7 +1156,7 @@
       }
     ],
     "campaign_detected": false,
-    "campaign_detail": "Run #2 kampanya taramasi (29 Haz): SAW-GZT ic hat icin aktif kampanya yok. Pegasus BolBol yurt disi 9 EUR devam ediyor (ic hat etkisiz). Pegasus %15 indirim kodu Picodi.com'da listeleniyor (dogrulanmadi). Pegasus APP5 (%5) ve AJet AJET30 (%30) kodlari dogrulanmadi. AJet 59 USD kampanyasi (14 Eyl-21 Kas, yalnizca yurt disi). AJet 1 Temmuz St. Petersburg yeni rota (ic hat etkisiz).",
+    "campaign_detail": "Run #3 kampanya taramasi (29 Haz): SAW-GZT ic hat icin aktif kampanya yok. Pegasus BolBol+KOTON Club (5 Haz-31 Tem, BolPuan kazanimi, ucak indirimi degil). Pegasus BolBol arac kiralama (4 May-31 Agu). Pegasus APP5 (%5) ve AJet AJET30 (%30) dogrulanmadi. AJet St. Petersburg 1 Temmuz (ic hat etkisiz).",
     "record_low": false,
     "six_month_min_at_time": 2481,
     "data_sources": [
@@ -1176,6 +1176,6 @@
       "GZT_SAW_july_enuygun_try": "2218-2844",
       "trip_com_saw_gzt_usd": 59
     },
-    "notes": "Run #2: SerpAPI ve tum ucus arama siteleri egress policy tarafindan engellendi (HTTP 403). Gercek-zamanli fiyat alinamadi. Fiyatlar onceki calistirmanin verileriyle ayni. Kampanya taramasi yapildi: yeni kampanya tespit edilmedi. Pegasus %15 kodu (Picodi.com) yeni tespit. Agustos 5-8 penceresi oncelikli hedef (₺3,267). Strateji degismedi."
+    "notes": "Run #3: SerpAPI egress policy engeli devam ediyor (HTTP 403). Fiyatlar son dogrulanmis verilere dayali (23 Haz). Kampanya taramasi #3 yapildi: Pegasus BolBol+KOTON Club kampanyasi yeni tespit (ucak indirimi degil). SAW-GZT icin aktif indirim yok. Agustos 5-8 penceresi oncelikli hedef (₺3,267). Fiyatlar 2+ haftadir stabil."
   }
 ]
