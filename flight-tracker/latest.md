@@ -1,19 +1,19 @@
-# SAW-GZT En Son Durum — 2026-06-29
+# SAW-GZT En Son Durum — 2026-06-30
 
-**En ucuz:** ₺3,267 | AJet | 05 Agu → 08 Agu (3 gun) | Yaz tatili
+**En ucuz:** ₺3,267 | AJet | 05 Ağu → 08 Ağu (3 gün) | Yaz tatili
 
 | # | Tarih | Havayolu | Fiyat | Tatil? |
 |---|-------|----------|-------|--------|
-| 1 | 05 Agu → 08 Agu | AJet | ₺3,267 | Yaz tatili |
-| 2 | 12 Agu → 15 Agu | AJet | ₺3,315 | Yaz tatili |
-| 3 | 28 Agu → 31 Agu | AJet | ₺3,450 | Zafer Bayrami |
-| 4 | 28 Agu → 01 Eyl | Pegasus | ₺3,500 | Zafer Bayrami |
-| 5 | 15 Tem → 18 Tem | AJet | ₺4,933 | Demokrasi Gunu |
+| 1 | 05 Ağu → 08 Ağu | AJet | ₺3,267 | Yaz tatili |
+| 2 | 12 Ağu → 15 Ağu | AJet | ₺3,315 | Yaz tatili |
+| 3 | 19 Ağu → 22 Ağu | AJet | ₺3,365 | Yaz tatili |
+| 4 | 28 Ağu → 31 Ağu | AJet | ₺3,450 | Zafer Bayramı |
+| 5 | 28 Ağu → 01 Eyl | Pegasus | ₺3,500 | Zafer Bayramı |
 
-**Kampanya:** SAW-GZT ic hat icin aktif kampanya yok. Pegasus APP5 (%5 mobil) aktif — uygulanirsa ~₺3,104.
+**Kampanya:** Pegasus Maximum Kart 500 TL indirim aktif (maximum.com.tr) — Rank-1 fiyatı ₺2,767'ye düşebilir! Pegasus Picodi %15 kodu listeli (doğrulanmamış).
 
-**Oneri:** Agustos 5-8 icin ₺3,300 altinda gorurseniz hemen alin. Temmuz cok pahali (₺4,933).
+**Öneri:** Ağustos 5-8 en ucuz pencere (₺3,267). Temmuz kaçının (~₺4,933, %51 daha pahalı). Maximum Kart varsa hemen deneyin.
 
-**Not:** SerpAPI engellendi (HTTP 403) — fiyatlar tarihsel veriye dayanir. Manuel kontrol onerilir: ajet.com / flypgs.com
+**Not:** SerpAPI engellendi (HTTP 403, 2. gün) — fiyatlar tarihsel veriye dayanır. Manuel kontrol önerilir: ajet.com / flypgs.com
 
-Son guncelleme: 2026-06-29 | Detay: flight-tracker/reports/2026-06-29.md
+Son güncelleme: 2026-06-30 | Detay: flight-tracker/reports/2026-06-30.md
