@@ -1282,5 +1282,111 @@
       "pegasus_maximum_kart_discount_try": 500
     },
     "notes": "Run #4 (30 Haz): SerpAPI engeli surdu (HTTP 403, 3/3 basarisiz, 2. gun ust uste). Fiyatlar tarihsel verilerden turetildi. Kampanya taramasinda onemli yenilik: Pegasus Maximum Kart 500 TL indirim aktif — rank-1 fiyatini 2,767 TL'ye dusurebilir. Top5'e Agustos 19-22 (3. secenek) eklendi — onceki listelerde yoktu, trend tamamlama. Temmuz hala cok pahali (%51 prim, ~4,933 TL). Agustos en iyi pencere. Strateji degismedi: Agustos 5-8 oncelikli (3,267 TL), Maximum Kart ile potansiyel 2,767 TL."
+  },
+  {
+    "date": "2026-07-01",
+    "best_price_try": 3267,
+    "best_airline": "AJet",
+    "outbound_price": 1865,
+    "return_price": 1402,
+    "total_price": 3267,
+    "reliability": "Yaklasik",
+    "top5": [
+      {
+        "rank": 1,
+        "airline": "AJet",
+        "dep_date": "2026-08-05",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-08",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "outbound_price": 1865,
+        "return_price": 1402,
+        "total_price": 3267,
+        "reliability": "Yaklasik",
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Agu 5-8)"
+      },
+      {
+        "rank": 2,
+        "airline": "AJet",
+        "dep_date": "2026-08-12",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-15",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "outbound_price": 1865,
+        "return_price": 1450,
+        "total_price": 3315,
+        "reliability": "Tahmini",
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Agu 12-15)"
+      },
+      {
+        "rank": 3,
+        "airline": "AJet",
+        "dep_date": "2026-08-19",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-22",
+        "ret_time": "19:30",
+        "duration_days": 3,
+        "outbound_price": 1865,
+        "return_price": 1500,
+        "total_price": 3365,
+        "reliability": "Tahmini",
+        "is_holiday": true,
+        "holiday_note": "Yaz tatili (Agu 19-22)"
+      },
+      {
+        "rank": 4,
+        "airline": "AJet",
+        "dep_date": "2026-08-27",
+        "dep_time": "07:30",
+        "ret_date": "2026-08-31",
+        "ret_time": "19:30",
+        "duration_days": 4,
+        "outbound_price": 1950,
+        "return_price": 1500,
+        "total_price": 3450,
+        "reliability": "Tahmini",
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayrami (30 Agu) + Yaz tatili"
+      },
+      {
+        "rank": 5,
+        "airline": "Pegasus",
+        "dep_date": "2026-08-28",
+        "dep_time": "08:00",
+        "ret_date": "2026-09-01",
+        "ret_time": "19:00",
+        "duration_days": 4,
+        "outbound_price": 1950,
+        "return_price": 1550,
+        "total_price": 3500,
+        "reliability": "Tahmini",
+        "is_holiday": true,
+        "holiday_note": "Zafer Bayrami (30 Agu) + Yaz tatili — 4 gunluk uzun hafta sonu"
+      }
+    ],
+    "campaign_detected": true,
+    "campaign_detail": "Pegasus BolBol+KOTON Club: 5 Haz-31 Tem 2026 aktif (Koton >=2000 TL alisveris = yarisi kadar BolPuan). Pegasus Arabam Tatilde: tek yon 2500/cift yon 5000 BolPuan, 31 Agu 2026'ya kadar. Pegasus Maximum Kart: 500 TL indirim (maximum.com.tr, dogrulanmamis) — rank-1 icin ~2,767 TL potansiyel. Pegasus APP5: mobil %5 indirim aktif. AJet: 1 Tem 2026 itibariyla Ankara-St. Petersburg direkt ucus basladi (yurt disi). SAW-GZT ic hat icin aktif AJet kampanyasi tespit edilmedi. AJet AJET30 kodu kupon sitelerinde listeli, ic hat dogrulanmadi.",
+    "record_low": false,
+    "six_month_min_at_time": 2481,
+    "data_sources": [
+      "price-history.json (tarihsel veri)",
+      "WebSearch kampanya taramasi — flypgs.com, turna.com, ajet.com",
+      "maximum.com.tr",
+      "picodi.com"
+    ],
+    "price_breakdown": {
+      "SAW_GZT_august_try": 1865,
+      "SAW_GZT_july_try": 2715,
+      "GZT_SAW_kayak_low_try": 1402,
+      "GZT_SAW_july_try": 2201,
+      "july_roundtrip_estimate_try": 4916,
+      "pegasus_maximum_kart_discount_try": 500,
+      "rank1_with_maximum_kart_try": 2767
+    },
+    "notes": "Run #5 (1 Tem): SerpAPI engeli 3. gun ust uste surdu (HTTP 403, 3/3 basarisiz — toplam 5 ust uste basarisiz cagri). Fiyatlar tarihsel verilerden turetildi. Artik Temmuz'dayiz — yuksek sezon. Temmuz round-trip ~4,916 TL (tek yon SAW-GZT 2,715 + GZT-SAW 2,201). 15 Temmuz tatili cevresinde fiyat artisi bekleniyor — oylkece onerilmez. Agustos hala en ucuz pencere (tek yon ~1,865 TL). Kampanya guncelleme: AJet 1 Tem'de Ankara-St. Petersburg seferi baslatti (yurt disi, SAW-GZT etkilenmiyor). Pegasus BolBol+KOTON 31 Tem'e kadar aktif. Strateji degismedi: Agustos 5-8 oncelikli (3,267 TL). SerpAPI sorunun cozumu icin API key veya endpoint kontrolu onerilir."
   }
 ]
